@@ -4,6 +4,9 @@
 ```bash
 source venv/Scripts/activate
 ```
+
+### Start the docker redis, standing in the 
+
 ### Run the following command activating the flask server
 ```bash
 python run.py
