@@ -5,7 +5,10 @@
 source venv/Scripts/activate
 ```
 
-### Start the docker redis, standing in the 
+### Run the docker-compose.yml file to start docker container, standing in the docker-redis folder:
+```bash
+docker-compose up
+```
 
 ### Run the following command activating the flask server
 ```bash
